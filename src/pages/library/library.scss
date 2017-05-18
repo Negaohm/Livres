@@ -1,0 +1,30 @@
+page-library {
+  .book-item{
+    padding:0!important;
+  }
+  .fav-icon{
+    z-index: 2;
+    position: absolute;
+    top: 6%;
+    margin: auto;
+    width: 8%;
+    height: 25%;
+    border-radius: 0!important;
+  }
+  .thumb-image{
+    height: 100%!important;
+  }
+  .book-read{
+    width: 50%;
+    font-size: 8vw;
+    vertical-align: middle;
+    text-align: center;
+  }
+  .book-note{
+    width: 50%;
+    font-size: 5vw;
+    vertical-align: middle;
+  }
+  .book-info{
+  }
+}
