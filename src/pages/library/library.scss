@@ -7,9 +7,11 @@ page-library {
     position: absolute;
     top: 6%;
     margin: auto;
-    width: 8%;
+    width: 9%;
     height: 25%;
     border-radius: 0!important;
+    font-size: 5vw;
+    padding:0;
   }
   .thumb-image{
     height: 100%!important;
@@ -24,7 +26,5 @@ page-library {
     width: 50%;
     font-size: 5vw;
     vertical-align: middle;
-  }
-  .book-info{
   }
 }
